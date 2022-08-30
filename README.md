@@ -2,4 +2,5 @@
 
 ### This task was given in the 1729 You and AI program.
 
-![image](https://user-images.githubusercontent.com/73512374/187410676-9e55a534-ccac-4b31-8025-aa2905e51735.png)
+![image](https://user-images.githubusercontent.com/73512374/187410880-fd4c5ecc-3a58-46b6-a35a-5714a9f17ce9.png)
+
