@@ -7,7 +7,8 @@
 ### What is Apache Spark??
 Apache Spark is a lightning-fast cluster computing technology, designed for fast computation. It is based on Hadoop MapReduce and it extends the MapReduce model to efficiently use it for more types of computations, which includes interactive queries and stream processing. The main feature of Spark is its in-memory cluster computing that increases the processing speed of an application.
 
-### Architecture of Apache Spark
+### Spark Ecosystem
 
 ![image](https://user-images.githubusercontent.com/73512374/187411923-cecaa29c-4d8e-4ca3-a10a-49544fa7f05a.png)
 
+Spark can run on hadoop for storage purpose and can also work standalone. Spark framework has CoreApi's that are core functionalities of spark supports python, Scala, Java, R. with the help of spark we can do real-time-analytics, Machine learning, SQL and Graph processing etc.
