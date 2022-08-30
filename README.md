@@ -9,4 +9,5 @@ Apache Spark is a lightning-fast cluster computing technology, designed for fast
 
 ### Architecture of Apache Spark
 
+![image](https://user-images.githubusercontent.com/73512374/187411923-cecaa29c-4d8e-4ca3-a10a-49544fa7f05a.png)
 
