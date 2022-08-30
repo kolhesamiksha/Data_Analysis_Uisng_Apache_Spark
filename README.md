@@ -12,3 +12,6 @@ Apache Spark is a lightning-fast cluster computing technology, designed for fast
 ![image](https://user-images.githubusercontent.com/73512374/187411923-cecaa29c-4d8e-4ca3-a10a-49544fa7f05a.png)
 
 Spark can run on hadoop for storage purpose and can also work standalone. Spark framework has CoreApi's that are core functionalities of spark supports python, Scala, Java, R. with the help of spark we can do real-time-analytics, Machine learning, SQL and Graph processing etc.
+
+### Spark architecture
+![image](https://user-images.githubusercontent.com/73512374/187414909-073134c6-1c92-43f2-a16c-a3148eaa55fb.png)
